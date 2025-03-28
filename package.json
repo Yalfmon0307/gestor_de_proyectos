@@ -1,0 +1,24 @@
+{
+  "name": "gestor_de_proyectos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yalfmon0307/gestor_de_proyectos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yalfmon0307/gestor_de_proyectos/issues"
+  },
+  "homepage": "https://github.com/Yalfmon0307/gestor_de_proyectos#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
